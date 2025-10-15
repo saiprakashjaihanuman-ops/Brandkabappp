@@ -17,6 +17,7 @@ if ($conn->connect_error) {
 }
 
 // ✅ Razorpay Keys (test mode for now, replace with live later)
-define("RAZORPAY_KEY_ID", "rzp_live_RBynR2kPk6cbP4"); 
-define("RAZORPAY_KEY_SECRET", "h247EY8KerkvcPFYBeqqWa1I");
+define("RAZORPAY_KEY_ID", "rzp_test_RGFvmNP1FiIT6V"); 
+define("RAZORPAY_KEY_SECRET", "vdOFwyxVSu4paU595zJbyGV6");
 ?>
+
